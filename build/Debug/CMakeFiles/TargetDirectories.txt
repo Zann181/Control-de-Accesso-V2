@@ -1,0 +1,5 @@
+C:/Users/Asus/Documents/Estructuras/4100901-Access_Control_System/build/Debug/CMakeFiles/4100901-Access_Control_System.dir
+C:/Users/Asus/Documents/Estructuras/4100901-Access_Control_System/build/Debug/CMakeFiles/edit_cache.dir
+C:/Users/Asus/Documents/Estructuras/4100901-Access_Control_System/build/Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Asus/Documents/Estructuras/4100901-Access_Control_System/build/Debug/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/Users/Asus/Documents/Estructuras/4100901-Access_Control_System/build/Debug/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
